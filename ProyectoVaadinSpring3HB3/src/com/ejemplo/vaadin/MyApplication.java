@@ -15,7 +15,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  *
- * @author alex
+ * @author alex aa
  * @version
  */
 public class MyApplication extends Application implements ClickListener {
